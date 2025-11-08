@@ -1,14 +1,25 @@
-🚀 **About Me**  
-🎓 I am Rasem Bali, an Industrial Computer Engineering student with a strong focus on artificial intelligence and computer vision. I am currently developing innovative projects in the field, including a facial recognition system and a self-driving car simulation, aiming to contribute significantly to advancements in AI technology.
+🚀 About Me
 
-👨‍💻 My passion for technology drives me to explore and implement various deep learning frameworks and tools. I have hands-on experience with YOLOv5 for object detection and am well-versed in Python, TensorFlow, and OpenCV. I'm enthusiastic about learning and applying new technologies to solve real-world challenges.
+👋 Hi, I’m Rassem Bali, a final-year Industrial Computer Engineering student passionate about Artificial Intelligence, Computer Vision, and Deep Learning. My goal is to design intelligent systems that bridge the gap between research and real-world applications — from visual perception to autonomous decision-making.
 
-🌟 **Achievements**  
-🏆 Developed a facial recognition system for user verification on web platforms.  
-🚀 Currently working on a self-driving car project using advanced simulation environments.  
-🔍 Contributed to several open-source projects, enhancing my coding skills and collaboration experience.  
-💻 Participated in coding competitions, refining my problem-solving abilities.
+💡 I’m currently developing projects that push the boundaries of applied AI, including a facial recognition system for secure web authentication and a self-driving car simulation integrating reinforcement learning and computer vision techniques.
 
-📚 I have a keen interest in personal development and am always eager to learn new skills, whether in technology or hobbies. When I'm not coding, I enjoy exploring new ideas and techniques in various fields.
+🧠 Technical Focus
 
-✈️ I also love to travel and seek out new experiences.
+AI & Deep Learning: PyTorch, TensorFlow, Scikit-learn
+
+Computer Vision: YOLOv8, OpenCV, MiDaS, image segmentation & detection
+
+Programming: Python, C++, Java
+
+Tools & MLOps: Docker, Streamlit, Git, Linux
+
+Other Interests: Robotics (ROS2, TurtleBot3), Data Engineering (dbt, Airflow, Snowflake)
+
+🌟 Highlights & Achievements
+
+🏆 Built a facial recognition system for user authentication on web platforms
+🚗 Developing a self-driving car simulation leveraging deep learning and reinforcement learning
+🔬 Contributed to open-source projects and research-inspired implementations
+💻 Active in coding challenges and hackathons, refining algorithmic and teamwork skills
+🌍 Curious learner exploring the intersection of AI, robotics, and data systems
