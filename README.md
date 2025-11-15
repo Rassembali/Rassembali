@@ -5,18 +5,6 @@ My work focuses on developing intelligent systems that combine **deep learning, 
 
 ---
 
-## 🧠 What I Do
-
-I’ve worked on AI-driven systems across robotics, vision, and data science, including:  
-- 🤖 **Autonomous navigation for TurtleBot3** using **DQN** and **TinySLAM** in **ROS2**.  
-- 🧠 **Digital pathology pipelines** using **U-Net** segmentation and **CNN** classification (with Grad-CAM visualization).  
-- 🚗 **Self-driving car simulation** in **GTA V**, integrating **YOLOv8 segmentation** and **PPO reinforcement learning**.  
-- 🔍 **OCR system** for Tunisian license plates using **YOLOv8**, **OpenCV**, and **Tesseract**.  
-- 🌄 **Monocular depth estimation** with **MiDaS** on the **KITTI dataset**.  
-- 🧩 **LoRA fine-tuning of Stable Diffusion** for efficient generative image modeling.  
-- 📈 **Data science project** at CRNS using **TensorFlow** and **Scikit-learn** to predict magnetocaloric performance.
-
----
 
 ## ⚙️ Technical Skills
 
